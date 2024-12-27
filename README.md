@@ -1,6 +1,6 @@
 # Junaid Ali's Data Science Portfolio  
 
-Welcome to the repository for my portfolio website! This repository highlights my journey in data science, showcasing my skills, projects, and passion for uncovering insights from data. Visit my live portfolio at [junaid-portfolio](https://junaiddali.github.io/junaid-portfolio/).  
+Welcome to the repository for my portfolio website! This repository highlights my journey in data science, showcasing my skills, projects, and passion for uncovering insights from data. Visit my live portfolio at [Junaid's portfolio](https://junaiddali.github.io/junaid-portfolio/).  
 
 ---
 
