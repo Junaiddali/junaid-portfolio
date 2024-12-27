@@ -77,7 +77,7 @@ Explore some of my recent projects:
 ## Contact Me  
 I’m always open to new ideas and opportunities!  
 - **Email**: [junaiddaallii@gmail.com](mailto:junaiddaallii@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/junaid-ali-92290221b/)  
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/junaid-ali-92290221b/)  
 
 [Visit my portfolio](https://junaiddali.github.io/junaid-portfolio/) to learn more about my work.  
 
